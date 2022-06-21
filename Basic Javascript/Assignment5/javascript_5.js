@@ -10,7 +10,7 @@ console.log(5>10); // boolean logic in console
 document.write("<br>")  //line break  
 document.write( 10 == 10);// comparison with double equal true   
 document.write("<br>")
-document.write(8 == 6);// comparison with douvle equal false  
+document.write(8 == 6);// comparison with double equal false  
 document.write("<br>")  //line break  
  var x = 5; 
  var y ="5"; 
