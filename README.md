@@ -1,0 +1,2 @@
+# JavaScript 
+basic javascript assignments
